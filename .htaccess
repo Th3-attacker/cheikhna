@@ -2,6 +2,6 @@ options All -Indexes
 
 RewriteEngine On
 
-RewriteBase /php/cheikhna/
+RewriteBase /php/projet/cheikhna/
 
 RewriteRule ^([-a-zA-Z0-9]+)$ index.php?page=$1
